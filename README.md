@@ -23,7 +23,8 @@ Meru-co 氏の作成したものを若干改変しています。
 
 ## ダウンロード
 
-BonDriver_UDP・BonDriver_TCP の両方が同梱されています。
+BonDriver_UDP・BonDriver_TCP の両方が同梱されています。  
+32bit 版 と 64bit 版があります。お使いの TVTest や EDCB のアーキテクチャに合わせてください。
 
 [BonDriver_UDP-TCP ver1.20 mod 2](https://github.com/tsukumijima/BonDriver_UDP-TCP/releases/download/v1.20-mod2/BonDriver_UDP-TCP.zip)
 

@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BonDriver_UDP", "BonDriver_UDP.vcproj", "{26C43DF8-9F2B-46BE-B430-71D01F96EEDA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BonDriver_TCP", "BonDriver_TCP.vcproj", "{6224E51F-BCB3-410E-A8BF-542ECA847920}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26C43DF8-9F2B-46BE-B430-71D01F96EEDA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{26C43DF8-9F2B-46BE-B430-71D01F96EEDA}.Debug|Win32.Build.0 = Debug|Win32
+		{26C43DF8-9F2B-46BE-B430-71D01F96EEDA}.Debug|x64.ActiveCfg = Debug|x64
+		{26C43DF8-9F2B-46BE-B430-71D01F96EEDA}.Debug|x64.Build.0 = Debug|x64
+		{26C43DF8-9F2B-46BE-B430-71D01F96EEDA}.Release|Win32.ActiveCfg = Release|Win32
+		{26C43DF8-9F2B-46BE-B430-71D01F96EEDA}.Release|Win32.Build.0 = Release|Win32
+		{26C43DF8-9F2B-46BE-B430-71D01F96EEDA}.Release|x64.ActiveCfg = Release|x64
+		{26C43DF8-9F2B-46BE-B430-71D01F96EEDA}.Release|x64.Build.0 = Release|x64
+		{6224E51F-BCB3-410E-A8BF-542ECA847920}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6224E51F-BCB3-410E-A8BF-542ECA847920}.Debug|Win32.Build.0 = Debug|Win32
+		{6224E51F-BCB3-410E-A8BF-542ECA847920}.Debug|x64.ActiveCfg = Debug|x64
+		{6224E51F-BCB3-410E-A8BF-542ECA847920}.Debug|x64.Build.0 = Debug|x64
+		{6224E51F-BCB3-410E-A8BF-542ECA847920}.Release|Win32.ActiveCfg = Release|Win32
+		{6224E51F-BCB3-410E-A8BF-542ECA847920}.Release|Win32.Build.0 = Release|Win32
+		{6224E51F-BCB3-410E-A8BF-542ECA847920}.Release|x64.ActiveCfg = Release|x64
+		{6224E51F-BCB3-410E-A8BF-542ECA847920}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

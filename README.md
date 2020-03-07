@@ -25,12 +25,12 @@ Meru-co 氏の作成したものを若干改変しています。
 
 BonDriver_UDP・BonDriver_TCP の両方が同梱されています。
 
-[BonDriver_UDP-TCP ver1.20 mod 2]()  
+[BonDriver_UDP-TCP ver1.20 mod 2](https://github.com/tsukumijima/BonDriver_UDP-TCP/releases/download/v1.20-mod2/BonDriver_UDP-TCP.zip)
 
 ## 使い方
 
 BonDriver 対応プログラムにて、BonDriver_UDP.dll を選択する。  
-受信するポート番号をチャンネルの中から選択する(送信元のプログラムと合わせる)。  
+受信するポート番号をチャンネルの中から選択する (送信元のプログラムと合わせる)。  
 
 ## ライセンス・免責事項
 
@@ -59,7 +59,7 @@ Meru-co 氏のオリジナル版のライセンス
 ## 更新履歴
 
 - **1.20 mod 2 (2016-12-17)**
-  - BonDriver_TCP もビルドできるようにした(ソースコード不明だったので適当に仕様を想像した)
+  - BonDriver_TCP もビルドできるようにした (ソースコード不明だったので適当に仕様を想像した)
   - 受信レベルを BonDriver_TCP の仕様に合わせて"常に0"に変更
   - リソースリークと排他漏れについて微修正
 - **1.20 mod 1**
